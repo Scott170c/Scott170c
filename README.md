@@ -1,7 +1,8 @@
 ### Hi there👋 I'm `Scott`
 I like to tinker with `arduino` and make software! I am ` trying to find inspiration `.
 
-[![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scott170c)]
+![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scott170c&show_icons=true&theme=tokyonight)
+
 
 <!--
 **Scott170c/Scott170c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
