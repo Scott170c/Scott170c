@@ -1,4 +1,4 @@
-### Hi there 👋 I'm `Scott`
+### Hi there <span class="wave">👋</span> I'm `Scott`
 I like to tinker with `arduinos` and make software! and I am ` trying to find inspiration `.
 
 <!--
