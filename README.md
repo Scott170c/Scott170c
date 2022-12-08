@@ -1,5 +1,5 @@
 ### Hi there👋 I'm `Scott`
-I like to tinker with `arduino` and make software! and I am ` trying to find inspiration `.
+I like to tinker with `arduino` and make software! I am ` trying to find inspiration `.
 
 <!--
 **Scott170c/Scott170c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
