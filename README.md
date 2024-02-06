@@ -1,5 +1,5 @@
 ### Hi there👋 I'm `Scott`
-I like to tinker with `arduino` and make software! I am currently ` trying to find inspiration `.
+I don't know what to make currently, but I am interested in AI/ML, EVs, and more!
 
 ![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scott170c&show_icons=true&theme=tokyonight)
 
